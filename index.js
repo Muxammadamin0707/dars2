@@ -6,4 +6,4 @@ confirm("Hamma ma'lumolar to'g'rima?");
 
 alert("Siznng kiritgan " + matn + " so'zi " + typeof matn + " typega tegishli!");
 alert("Siznng kiritgan " + son + " soni " + typeof son + " typega tegishli!");
-alert("Siznng kiritgan " + rost + " so'zi " + typeof rost + " typega tegishli!");
+alert("Siznng kiritgan " + rost + " so'zi " + typeof rost + " typega tegishli!");   
